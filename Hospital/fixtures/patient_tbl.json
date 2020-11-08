@@ -1,0 +1,72 @@
+[
+{
+    "model": "Hospital.patient",
+    "pk": 1,
+    "fields": {
+        "name": "Dipendra",
+        "age": "7",
+        "location": "Kalimati",
+        "contact": "9860304374",
+        "blood_group": "A+",
+        "disease": "EyeDisease",
+        "inqury_date": "2020-10-04T04:12:44.251Z",
+        "user": 5
+    }
+},
+{
+    "model": "Hospital.patient",
+    "pk": 2,
+    "fields": {
+        "name": "Dipendra",
+        "age": "2",
+        "location": "Kalimati",
+        "contact": "9860304374",
+        "blood_group": "A+",
+        "disease": "Head and Spinal",
+        "inqury_date": "2020-10-04T04:16:07.766Z",
+        "user": 6
+    }
+},
+{
+    "model": "Hospital.patient",
+    "pk": 3,
+    "fields": {
+        "name": "Dipendra",
+        "age": "1",
+        "location": "Kalimati",
+        "contact": "9860304374",
+        "blood_group": "A+",
+        "disease": "Heart Disease",
+        "inqury_date": "2020-10-04T06:27:55.989Z",
+        "user": 3
+    }
+},
+{
+    "model": "Hospital.patient",
+    "pk": 4,
+    "fields": {
+        "name": "Dipendra",
+        "age": "22",
+        "location": "Kalimati",
+        "contact": "9860304374",
+        "blood_group": "A+",
+        "disease": "Covid 19",
+        "inqury_date": "2020-10-04T06:42:32.848Z",
+        "user": 3
+    }
+},
+{
+    "model": "Hospital.patient",
+    "pk": 5,
+    "fields": {
+        "name": "Ram",
+        "age": "22",
+        "location": "Kalimati",
+        "contact": "9860304374",
+        "blood_group": "A+",
+        "disease": "Heart Disease",
+        "inqury_date": "2020-10-04T06:44:44.311Z",
+        "user": 3
+    }
+}
+]
